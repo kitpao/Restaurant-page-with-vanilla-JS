@@ -1,1 +1,1 @@
-import styles from './homepage'
+import styles from './styles/homepage'
